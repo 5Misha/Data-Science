@@ -1,0 +1,12 @@
+[submodule "Work_experience"]
+	path = Work_experience
+	url = https://github.com/5Misha/Work_experience.git
+[submodule "Personal_projects"]
+	path = Personal_projects
+	url = https://github.com/5Misha/Personal_projects.git
+[submodule "5Misha"]
+	path = 5Misha
+	url = https://github.com/5Misha/5Misha.git
+[submodule "Yandex_Practicum"]
+	path = Yandex_Practicum
+	url = https://github.com/5Misha/Yandex_Practicum.git
